@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/confidentsecurity/trustauthority-client-for-go/sevsnp-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
 )
 
 func TestGetVersion(t *testing.T) {

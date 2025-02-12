@@ -9,7 +9,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/confidentsecurity/trustauthority-client-for-go/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	"github.com/spf13/cobra"
 )
 

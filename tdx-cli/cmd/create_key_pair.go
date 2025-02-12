@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/confidentsecurity/trustauthority-client-for-go/go-tdx"
-	"github.com/confidentsecurity/trustauthority-client-for-go/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-tdx"
+	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
