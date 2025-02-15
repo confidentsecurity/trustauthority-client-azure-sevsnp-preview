@@ -2,14 +2,14 @@
 // All rights reserved.
 // SPDX-License-Identifier: BSD-3-Clause
 
-module github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli
+module github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview/sevsnp-cli
 
 go 1.22
 
 toolchain go1.22.0
 
 require (
-	github.com/confidentsecurity/trustauthority-client-sevsnp-preview v1.3.1-0.20250212143730-fb3e5ca39338
+	github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview v1.3.1-0.20250212143730-fb3e5ca39338
 	github.com/google/uuid v1.6.0
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.7.0
@@ -34,4 +34,4 @@ require (
 	golang.org/x/sys v0.23.0 // indirect
 )
 
-replace github.com/confidentsecurity/trustauthority-client-sevsnp-preview => ../
+replace github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview => ../

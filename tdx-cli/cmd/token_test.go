@@ -10,8 +10,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/constants"
-	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/tdx-cli/test"
+	"github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview/tdx-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview/tdx-cli/test"
 	"github.com/stretchr/testify/assert"
 )
 

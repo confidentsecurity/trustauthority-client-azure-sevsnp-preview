@@ -24,7 +24,7 @@ sudo snap install go --classic
 ### Get the code
 Checkout the code
 ```sh
-git clone -b azure-sevsnp-preview https://github.com/confidentsecurity/trustauthority-client-sevsnp-preview-for-go
+git clone -b azure-sevsnp-preview https://github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview-for-go
 ```
 
 ### Build

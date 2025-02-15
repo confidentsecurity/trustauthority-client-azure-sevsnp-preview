@@ -17,9 +17,9 @@ import (
 	"strings"
 
 	"github.com/google/uuid"
-	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-connector"
-	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/go-sevsnp"
-	"github.com/confidentsecurity/trustauthority-client-sevsnp-preview/sevsnp-cli/constants"
+	"github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview/go-connector"
+	"github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview/go-sevsnp"
+	"github.com/confidentsecurity/trustauthority-client-azure-sevsnp-preview/sevsnp-cli/constants"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
